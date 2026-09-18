@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "Real-time weather intelligence and 7-day forecasts with Open-Meteo geocoding disambiguation, temperature trend charts, and data-derived planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
